@@ -1,4 +1,4 @@
-# bacnk-vue
+# banck-vue
 
 ## Project setup
 ```
